@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0906093-e899-4bc0-a4c5-a00607ae6a91" name="Default Changelist" comment="Adding OOPs concepts">
+      <change afterPath="$PROJECT_DIR$/src/VIII_OOP/23_Interface.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VIII_OOP/22_Abstract_Class_Method_And_Properties.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/VIII_OOP/22_Abstract_Class_Method_And_Properties.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,15 +18,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VIII_OOP/20_Primary_Secondary_Constructor_In_Inheitance.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="45" selection-start-line="45" selection-start-column="2" selection-end-line="63" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VIII_OOP/21_Visibility_Modifier.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
@@ -35,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VIII_OOP/22_Abstract_Class_Method_And_Properties.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
+            <state relative-caret-position="517">
               <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VIII_OOP/23_Interface.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -94,11 +94,12 @@
         <option value="$PROJECT_DIR$/src/VIII_OOP/Primary_Secondary_Constructor_In_Inheitance.kt" />
         <option value="$PROJECT_DIR$/src/VIII_OOP/21_Visibility_Modifier.kt" />
         <option value="$PROJECT_DIR$/src/VIII_OOP/22_Abstract_Class_Method_And_Properties.kt" />
+        <option value="$PROJECT_DIR$/src/VIII_OOP/23_Interface.kt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -160,7 +161,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.VIII_OOP._22_Abstract_Class_Method_And_PropertiesKt">
+  <component name="RunManager" selected="Kotlin.VIII_OOP._23_InterfaceKt">
     <configuration name="VIII_OOP.Primary_Secondary_Constructor_In_InheitanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="KotlinProgramming" />
       <option name="VM_PARAMETERS" />
@@ -169,19 +170,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="VIII_OOP.Primary_Secondary_Constructor_In_InheitanceKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VIII_OOP._17_Secondary_ConstructorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="KotlinProgramming" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="VIII_OOP._17_Secondary_ConstructorKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -226,13 +214,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VIII_OOP._23_InterfaceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="KotlinProgramming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="VIII_OOP._23_InterfaceKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.VIII_OOP._23_InterfaceKt" />
         <item itemvalue="Kotlin.VIII_OOP._22_Abstract_Class_Method_And_PropertiesKt" />
         <item itemvalue="Kotlin.VIII_OOP.Primary_Secondary_Constructor_In_InheitanceKt" />
         <item itemvalue="Kotlin.VIII_OOP._19_OverridingKt" />
         <item itemvalue="Kotlin.VIII_OOP._18_InheritanceKt" />
-        <item itemvalue="Kotlin.VIII_OOP._17_Secondary_ConstructorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +268,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1087" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2297593" />
@@ -279,7 +280,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32917964" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24633123" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24633123" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997923" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -503,8 +504,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VIII_OOP/22_Abstract_Class_Method_And_Properties.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
+        <state relative-caret-position="517">
           <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VIII_OOP/23_Interface.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
         </state>
       </provider>
     </entry>
